@@ -1,0 +1,234 @@
+body {
+  width: 1152px;
+  height: 2041px;
+  margin: 0;
+}
+.header {
+  display: flex;
+  padding-left: 856px;
+  flex-wrap: wrap;
+}
+.header p {
+  margin-right: 26px;
+}
+
+.welcome-content {
+  display: flex;
+  margin-top: 140px;
+  margin-left: 148px;
+  margin-right: 149px;
+}
+
+.left-side-welcome {
+  display: grid;
+  padding-right: 106px;
+}
+
+.welcome-text {
+  width: 506px;
+  height: 105px;
+  color: #21243D;
+  font-size: 44px;
+  font-weight: 700;
+  line-height: 60px;
+}
+.under-welcome-text {
+  color: #21243D;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.download-button {
+  background-color: #FF6464;
+  border-color: white;
+  border-radius: 2px;
+  font-size: 20px;
+  font-weight: 500;
+  color: white;
+  padding: 9px 21px 17px 20px;
+  margin-top:38px;
+  margin-right: 289px;
+}
+.welcome-man {
+  width: 243px;
+  height: 243px;
+  border-radius: 243px;
+}
+
+.post-content {
+  margin-top: 71px;
+  width: 1152px;
+  height: 396px;
+  background: #EDF7FA;
+}
+
+.nav-post {
+  display: flex;
+  margin-left: 148px;
+  margin-right: 148px;
+}
+.recent-posts-text {
+  margin: 0;
+  width: 129px;
+  height: 60px;
+  color: #21243D;
+  font-size: 22px;
+  font-weight: 400;
+  line-height: 60px;
+}
+.view-all-button {
+  padding-top: 27px;
+  margin-left: 519px;
+  width: 208px;
+  height: 20px;
+  text-align: right;
+  background: none;
+  border: none;
+  color: #00A8CC;
+}
+.view-all-button:hover {
+  text-decoration: underline;
+}
+.posts {
+  display: flex;
+  margin-left: 148px;
+  margin-right: 156px;
+}
+
+.post {
+  width: 418px;
+  height: 295px;
+  border-radius: 4px;
+  background: #FFF;
+}
+
+.post p, h2 {
+  padding-left: 20px;
+  color: #21243D;
+}
+
+.post-header {
+  width: 374px;
+  height: 85px;
+  font-size: 26px;
+  font-weight: 700;
+}
+.post-type {
+  width: 239px;
+  height: 34px;
+  font-size: 18px;
+  font-weight: 400;
+}
+.post-text {
+  width: 368px;
+  height: 117px;
+  font-size: 16px;
+  font-weight: 400;
+}
+.second-post {
+  margin-left: 12px;
+}
+
+.featured-works {
+  margin-left: 148px;
+  margin-top: 15px;
+}
+.featured-works-text {
+  width:152px;
+  height:60px;
+  color: #21243D;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 60px;
+}
+.work {
+  display: flex;
+}
+.work-content {
+  margin-left: 18px;
+}
+.work-types {
+  display: flex;
+}
+.works-header {
+  margin: 0;
+  color: #21243D;
+  font-size: 30px;
+  font-weight: 700;
+
+}
+.work-year {
+  width: 62px;
+  height: 25px;
+  color: white;
+  text-align: center;
+  border-radius: 16px;
+  background: #142850;
+  padding: 3px 5px 0 3px;
+}
+.work-type {
+  vertical-align: center;
+  margin-left: 36px;
+  color: #8695A4;
+  font-size: 20px;
+  font-weight: 400;
+}
+
+.first-work {
+  margin-top: 11px;
+}
+.second-work {
+  margin-top: 31px;
+}
+.third-work {
+  margin-top: 48px;
+}
+
+.work-text {
+  color: #21243D;
+  font-size: 16px;
+  font-weight: 400;
+}
+
+.work-img {
+  width: 246px;
+  height: 180px;
+  border-radius: 6px;
+}
+.vector {
+  width: 858px;
+  height: 0;
+}
+.first-vector {
+  margin-top: 2px;
+}
+.second-vector {
+  margin-top: 17px;
+}
+.third-vector {
+  margin-top: 4px;
+}
+
+.footer {
+  width: 1152px;
+  height: 182px;
+}
+.company-logos {
+  display: flex;
+  margin-top:134px;
+  margin-left: 424px;
+  margin-right: 461px;
+}
+.logo {
+  margin-left:35px;
+}
+.copyright-text {
+  color: #21243D;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  margin-top: 26px;
+}
